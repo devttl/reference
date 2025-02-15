@@ -1,4 +1,5 @@
 {
+  "title": "速查表",
   "description": "{{description}}，为开发人员分享快速参考备忘单。",
   "keywords": "reference,Quick,Reference,cheatsheet,cheat,sheet",
   "data-info": "👆待完善需要您的参与",
@@ -11,8 +12,13 @@
     "label": "编辑"
   },
   "github": {
-    "url": "https://github.com/jaywcjlove/reference"
+    "url": "https://github.com/devttl"
   },
+  "home": {
+    "label": "首页",
+    "url": "http://ref.devttl.cn/"
+  },
+  "license": "Copyright © <b>2025</b> <a href=\"https://devttl.cn/\" target=\"_blank\">开发生存时间</a> <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\"> 豫ICP备14008887号-3 </a> <br>",
   "favicon": "{{RELATIVE_PATH}}icons/favicon.svg",
   "meta": [
     { "name": "author", "content": "jaywcjlove" },
